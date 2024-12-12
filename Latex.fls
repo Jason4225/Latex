@@ -337,6 +337,8 @@ INPUT .\Latex.nav
 INPUT .\Latex.nav
 INPUT Latex.nav
 INPUT C:\Users\jakub\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmss8.tfm
+INPUT C:\Users\jakub\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmss12.tfm
+INPUT C:\Users\jakub\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmss8.tfm
 INPUT C:\Users\jakub\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmss8.tfm
 INPUT C:\Users\jakub\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 OUTPUT Latex.nav
@@ -347,5 +349,7 @@ INPUT .\Latex.out
 INPUT .\Latex.out
 INPUT C:\Users\jakub\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmss10.pfb
 INPUT C:\Users\jakub\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmss10.pfb
+INPUT C:\Users\jakub\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmss12.pfb
+INPUT C:\Users\jakub\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmss12.pfb
 INPUT C:\Users\jakub\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmss8.pfb
 INPUT C:\Users\jakub\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmss8.pfb

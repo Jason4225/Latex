@@ -1,11 +1,13 @@
 # Fdb version 4
-["pdflatex"] 1733989664.88048 "c:/Users/jakub/Documents/LaTeX/Latex.tex" "Latex.pdf" "Latex" 1733989665.98692 0
+["pdflatex"] 1733990072.91687 "c:/Users/jakub/Documents/LaTeX/Latex.tex" "Latex.pdf" "Latex" 1733990074.15525 0
   "C:/Users/jakub/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1733989311 81088 29d6fa367ac022d1b69251d68c0742e6 ""
   "C:/Users/jakub/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1733813905 11986914 0c8f2a2109e32eaf2ce29fd8015512df ""
   "C:/Users/jakub/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr10.tfm" 1136765053 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
   "C:/Users/jakub/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmss10.tfm" 1136765053 1316 b636689f1933f24d1294acdf6041daaa ""
+  "C:/Users/jakub/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmss12.tfm" 1136765053 1324 37b971caf729d7edd9cbb9f9b0ea76eb ""
   "C:/Users/jakub/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmss8.tfm" 1136765053 1296 d77f431d10d47c8ea2cc18cf45346274 ""
   "C:/Users/jakub/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb" 1247596666 24457 5cbb7bdf209d5d1ce9892a9b80a307cc ""
+  "C:/Users/jakub/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb" 1247596666 24393 3b7eb51a67a0a62aec5849271bdb9c2e ""
   "C:/Users/jakub/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb" 1247596667 24420 52dbb8e8aa0069a1b987309557f8d303 ""
   "C:/Users/jakub/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/jakub/AppData/Local/Programs/MiKTeX/tex/generic/atbegshi/atbegshi.sty" 1575571100 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
@@ -167,11 +169,11 @@
   "C:/Users/jakub/AppData/Local/Programs/MiKTeX/tex/latex/translator/translator.sty" 1622471510 8765 56d370785f0143111ff9898b5adfe08e ""
   "C:/Users/jakub/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/jakub/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "Latex.aux" 1733989665 471 99eae53d8ead0d6d5a194d898744c627 "pdflatex"
-  "Latex.nav" 1733989665 219 1021aa037c875ea5202b922df73c6b1e "pdflatex"
-  "Latex.out" 1733989665 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "Latex.tex" 1733989663 213 8d4123ce160d7135b830c15b823e0c15 ""
-  "c:/Users/jakub/Documents/LaTeX/Latex.tex" 1733989663 213 8d4123ce160d7135b830c15b823e0c15 ""
+  "Latex.aux" 1733990073 719 572e16de66780eb60851374e7196524e "pdflatex"
+  "Latex.nav" 1733990073 395 640a03f4d3f0f705896c1d8375ddfa75 "pdflatex"
+  "Latex.out" 1733990073 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Latex.tex" 1733990071 287 e34b01c3e70283154d8e7dad4f5c0f47 ""
+  "c:/Users/jakub/Documents/LaTeX/Latex.tex" 1733990071 287 e34b01c3e70283154d8e7dad4f5c0f47 ""
   (generated)
   "Latex.aux"
   "Latex.log"
